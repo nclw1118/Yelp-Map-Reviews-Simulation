@@ -1,4 +1,4 @@
-# Yelp-Map-Reviews-Simulation
+# Yelp Map Reviews Simulation
 <b>A simulation of basic Yelp map and review system</b>
 <ul>
   <li>User preference prediction model based on factors such as distance, keywords, restaurant ratings...</li>
